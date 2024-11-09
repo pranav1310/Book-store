@@ -1,0 +1,15 @@
+{
+  "name": "book-store-mern-stack",
+  "version": "1.0.0",
+  "description": "- [x] Lesson 01: Create Node.js project from scratch\r - [x] Lesson 02: Create our first Http Route\r - [x] Lesson 03: Add MongoDB and mongoose to node js\r - [x] Lesson 04: Create Book model with mongoose\r - [x] Lesson 05: Save a new Book with mongoose\r - [x] Lesson 06: Get All Books with mongoose\r - [x] Lesson 07: Get One Book by id with mongoose\r - [x] Lesson 08: Update a Book with mongoose\r - [x] Lesson 09: Delete a book with mongoose\r - [x] Lesson 10: Refactor Node js with express router\r - [x] Lesson 11: CORS policy in Node js and Express js\r - [x] Lesson 12: Create React project, Vite, Tailwind CSS\r - [x] Lesson 13: SPA and Add react router dom\r - [x] Lesson 14: Show Books List in React\r - [x] Lesson 15: Show Book Details in React\r - [x] Lesson 16: Create Book in React\r - [x] Lesson 17: Edit Book in React\r - [x] Lesson 18: Delete Book in React\r - [x] Lesson 19: Show Books List as Card\r - [x] Lesson 20: Make Book Card a single component\r - [x] Lesson 21: Add Book Modal\r - [x] Lesson 22: Improve User Experience (UX) with beautiful alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
